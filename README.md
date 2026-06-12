@@ -64,6 +64,7 @@ pytest -v
 ## Author
 
 AYESHA MAJID CHUGHTAI
+Syeda Mehak Ali
 
 Department of Computer Science & Information Technology
 
